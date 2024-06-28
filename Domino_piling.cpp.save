@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+    int n,m,div;
+
+    cin>>>>y;
+
+    div = (n*m)/2;
+
+    cout<<maximal<<endl;
+
+    return 0;
+}

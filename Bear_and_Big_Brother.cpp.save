@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int mai(){
+    int x,y;
+    
+    cin>>x>>y;
+    x*=3;y*=2;
+    for(i=1;; i++)
+    
+    return 0;
+}
